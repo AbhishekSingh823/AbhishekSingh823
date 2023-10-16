@@ -1,8 +1,8 @@
 [![MasterHead](vs.gif)](https://itsvarsharma.netlify.app)
-<h1 align="center">Hi 👋, I'm Varsha Sharma</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
 <img align="right" alt="coding" width="50%" src="girl.png" style= "border-radius: 50px;" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="itsvarsharma" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="itsvarsharma" /> </p> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvarsharma" alt="itsvarsharma" /></a> </p> -->
 
 
@@ -16,13 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsvarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsvarsharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsvarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsvarsharma" height="30" width="40" /></a>
-<a href="https://fb.com/itsvarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsvarsharma" height="30" width="40" /></a>
-<a href="https://instagram.com/itsvarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsvarsharma" height="30" width="40" /></a>
-<a href="https://www.behance.net/varshasharma12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="varshasharma12" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itsvarsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsvarsharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsvarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsvarsharma" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/itsvarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/abhishek-kumar-a5a737224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/itsvarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek" height="30" width="40" /></a> -->
+<a href=" https://www.instagram.com/itcellwaala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek" height="30" width="40" /></a>
+<!-- <a href="https://www.behance.net/varshasharma12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhishek" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/itsvarsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsvarsharma" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/ravi_shastri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvarsharma&show_icons=true&locale=en" alt="itsvarsharma" /></p>
 
 <br>
-<p align="center"> <a href="https://twitter.com/itsvarsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsvarsharma?logo=twitter&style=for-the-badge" height="40" alt="itsvarsharma" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/itsvarsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsvarsharma?logo=twitter&style=for-the-badge" height="40" alt="itsvarsharma" /></a> </p> -->
